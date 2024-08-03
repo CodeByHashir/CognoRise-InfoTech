@@ -16,13 +16,6 @@ This repository will contain all the related content for my internship projects,
 - **Technologies Used**: Python, Pandas, Matplotlib, Seaborn, Scikit-learn
 - **Objective**: To apply and hone skills in data analysis, visualization, and modeling.
 
-### Project 2: Car Price Prediction
-**Description**: Predicting the price of used cars based on various attributes such as age, kilometers driven, fuel type, and more.
-- **Technologies Used**: Python, Pandas, Matplotlib, Seaborn, Scikit-learn
-- **Objective**: To understand and implement regression modeling techniques.
-
-
-
 
 4. **Explore the Notebooks**:
    Open the Jupyter Notebooks to explore the data analysis and model development:
