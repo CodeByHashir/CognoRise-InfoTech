@@ -17,14 +17,14 @@ This repository will contain all the related content for my internship projects,
 - **Objective**: To apply and hone skills in data analysis, visualization, and modeling.
 
 - ### Project 2: Credit Card Fraud Detection
-**Description**: This project involves developing a machine learning model to detect fraudulent credit card transactions.
-**Technologies Used**: Python, Scikit-learn, Pandas, NumPy, Jupyter Notebook
-**Objective**: The objective of this project is to build an accurate and efficient model to identify and prevent fraudulent transactions, thus reducing financial losses and enhancing security.
+- **Description**: This project involves developing a machine learning model to detect fraudulent credit card transactions.
+- **Technologies Used**: Python, Scikit-learn, Pandas, NumPy, Jupyter Notebook
+- **Objective**: The objective of this project is to build an accurate and efficient model to identify and prevent fraudulent transactions, thus reducing financial losses and enhancing security.
 
 ### Project 2: Cinema Ticket Sales Analysis
-**Description**: This project involves analyzing a dataset of cinema ticket sales to uncover insights and trends in movie attendance, ticket pricing, and customer preferences.
-**Technologies Used**: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
-**Objective**: The objective of this project is to analyze cinema ticket sales data to identify trends in movie attendance, understand pricing strategies, and gain insights into customer preferences to help improve business decisions and enhance customer satisfaction.
+- **Description**: This project involves analyzing a dataset of cinema ticket sales to uncover insights and trends in movie attendance, ticket pricing, and customer preferences.
+- **Technologies Used**: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+- **Objective**: The objective of this project is to analyze cinema ticket sales data to identify trends in movie attendance, understand pricing strategies, and gain insights into customer preferences to help improve business decisions and enhance customer satisfaction.
 
   
 4. **Explore the Notebooks**:
