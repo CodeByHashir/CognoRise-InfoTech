@@ -32,7 +32,7 @@ This repository will contain all the related content for my internship projects,
 - **Objective**: The primary objective of this project is to apply machine learning algorithms to historical data and accurately predict which passengers were more likely to survive the Titanic disaster. This involves data cleaning, feature engineering, model selection, and evaluation to achieve the best possible predictive performance.
 
   
-4. **Explore the Notebooks**:
+**Explore the Notebooks**:
    Open the Jupyter Notebooks to explore the data analysis and model development:
 
 ## Acknowledgments
