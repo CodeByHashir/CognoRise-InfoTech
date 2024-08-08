@@ -26,6 +26,11 @@ This repository will contain all the related content for my internship projects,
 - **Technologies Used**: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 - **Objective**: The objective of this project is to analyze cinema ticket sales data to identify trends in movie attendance, understand pricing strategies, and gain insights into customer preferences to help improve business decisions and enhance customer satisfaction.
 
+- ### Project 4: Titanic Survival Prediction
+- **Description**: This project involves predicting the survival of passengers on the Titanic using machine learning techniques. The dataset includes various features such as age, gender, passenger class, and more, which were analyzed and used to build predictive models.
+- **Technologies Used**: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+- **Objective**: The primary objective of this project is to apply machine learning algorithms to historical data and accurately predict which passengers were more likely to survive the Titanic disaster. This involves data cleaning, feature engineering, model selection, and evaluation to achieve the best possible predictive performance.
+
   
 4. **Explore the Notebooks**:
    Open the Jupyter Notebooks to explore the data analysis and model development:
