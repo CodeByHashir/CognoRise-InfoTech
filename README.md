@@ -31,7 +31,11 @@ This repository will contain all the related content for my internship projects,
 - **Technologies Used**: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 - **Objective**: The primary objective of this project is to apply machine learning algorithms to historical data and accurately predict which passengers were more likely to survive the Titanic disaster. This involves data cleaning, feature engineering, model selection, and evaluation to achieve the best possible predictive performance.
 
-  
+- ### Project 5: Fake News Detection
+- **Description:** This project focuses on detecting fake news by leveraging machine learning techniques. The dataset comprises various textual features that were analyzed and used to train models capable of distinguishing between real and fake news articles.
+- **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, TensorFlow/Keras, NLTK, Spacy, Jupyter Notebook
+- **Objective:** The primary objective of this project is to develop an effective model that can accurately identify and classify news articles as real or fake. This involves text preprocessing, feature extraction, model selection, and hyperparameter tuning to achieve optimal predictive performance.
+
 **Explore the Notebooks**:
    Open the Jupyter Notebooks to explore the data analysis and model development:
 
