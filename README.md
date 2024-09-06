@@ -47,5 +47,5 @@ I would like to thank my internship mentors and colleagues for their guidance an
 
 For any questions or suggestions, please feel free to contact me at:
 - **Email**: hashirahmad330@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/hashir-ahmed-842874245/
+- **LinkedIn**: https://www.linkedin.com/in/hashirahmed07
 
